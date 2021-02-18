@@ -29,3 +29,11 @@ i will make it output an actual map file soon
 
 # about
 write here what this program is doing future me (good luck👍)
+
+# references
+onset detection: https://github.com/CPJKU/onset_detection/
+
+"Evaluating the Online Capabilities of Onset Detection Methods"
+by Sebastian Böck, Florian Krebs and Markus Schedl in Proceedings of the 13th International Society for Music Information Retrieval Conference (ISMIR), 2012
+
+bpm detection: https://github.com/scaperot/the-BPM-detector-python/
